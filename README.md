@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: `ZeroDivisionError`. The `calculate_average` function in `bug.py` calculates the average of a list of numbers. However, it doesn't explicitly handle the case where the sum of numbers is zero. The `bugSolution.py` file shows a corrected version of the function that addresses this issue.
